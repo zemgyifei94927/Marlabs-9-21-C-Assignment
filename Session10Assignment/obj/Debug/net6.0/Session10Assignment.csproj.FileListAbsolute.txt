@@ -1,0 +1,14 @@
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\bin\Debug\net6.0\Session10Assignment.exe
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\bin\Debug\net6.0\Session10Assignment.deps.json
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\bin\Debug\net6.0\Session10Assignment.runtimeconfig.json
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\bin\Debug\net6.0\Session10Assignment.dll
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\bin\Debug\net6.0\Session10Assignment.pdb
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.AssemblyInfoInputs.cache
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.AssemblyInfo.cs
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.csproj.CoreCompileInputs.cache
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.dll
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\refint\Session10Assignment.dll
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.pdb
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\Session10Assignment.genruntimeconfig.cache
+C:\Users\yzeng\Desktop\marlabs\Session10Assignment\obj\Debug\net6.0\ref\Session10Assignment.dll
