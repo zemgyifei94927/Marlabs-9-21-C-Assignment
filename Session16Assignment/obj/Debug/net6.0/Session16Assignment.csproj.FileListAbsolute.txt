@@ -1,0 +1,14 @@
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\bin\Debug\net6.0\Session16Assignment.exe
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\bin\Debug\net6.0\Session16Assignment.deps.json
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\bin\Debug\net6.0\Session16Assignment.runtimeconfig.json
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\bin\Debug\net6.0\Session16Assignment.dll
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\bin\Debug\net6.0\Session16Assignment.pdb
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.AssemblyInfoInputs.cache
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.AssemblyInfo.cs
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.csproj.CoreCompileInputs.cache
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.dll
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\refint\Session16Assignment.dll
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.pdb
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\Session16Assignment.genruntimeconfig.cache
+C:\Users\yzeng\Desktop\marlabs\Session16Assignment\obj\Debug\net6.0\ref\Session16Assignment.dll
