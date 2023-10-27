@@ -23,3 +23,4 @@ C:\Users\yzeng\Desktop\marlabs\adoAssignment\bin\Debug\net6.0-windows\runtimes\u
 C:\Users\yzeng\Desktop\marlabs\adoAssignment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\yzeng\Desktop\marlabs\adoAssignment\obj\Debug\net6.0-windows\adoAssignment.csproj.AssemblyReference.cache
 C:\Users\yzeng\Desktop\marlabs\adoAssignment\obj\Debug\net6.0-windows\adoAssignment.csproj.CopyComplete
+C:\Users\yzeng\Desktop\marlabs\adoAssignment\obj\Debug\net6.0-windows\adoAssignment.EmpMDIParent.resources
