@@ -1,0 +1,61 @@
+﻿@*@using RazorDemos.Models *@
+@{
+    Person person = new Person() { 
+        Name = "Tom", 
+        DateOfBirth = Convert.ToDateTime("1994-06-01"), 
+        PersonGender = Person.Gender.Male 
+    };
+}
+
+<html>
+    <head>
+        <title>@ViewData["title"]</title>
+        <link href="~/StyleSheet.css" rel="stylesheet"/>
+    </head>
+    
+    <body style="font-family:Arial">
+        <h1>Persons</h1>
+    <div class="page-content">
+    @{
+
+
+        double? getAge(DateTime? dateOfBirth)
+        {
+            if (dateOfBirth is not null)
+            {
+                return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays / 365.25); 
+            }
+            return null;
+        }
+
+        List<Person> people = (List<Person>)ViewData["people"];
+        
+        @foreach (Person p in people)
+        {
+                <div class="box float-left">
+                    <h3>@p.Name</h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@p.PersonGender</td>
+                        </tr>
+                        <tr>
+                            <td>DateOfBirth</td>
+                                <td>@p.DateOfBirth?.ToString("MM/dd/yyyy")</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+            
+        }
+        
+        string message = $"<script>alert('This is an alert')</script>";
+        
+    }
+    </div>
+    @Html.Raw(message)
+
+    
+    </body>
+</html>

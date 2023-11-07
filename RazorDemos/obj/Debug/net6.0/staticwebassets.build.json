@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+8vUohBZoBmxdYX/muayhlrgUFKlRVXPoRLRRE+Sniw=",
+  "Source": "RazorDemos",
+  "BasePath": "_content/RazorDemos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorDemos\\wwwroot",
+      "Source": "RazorDemos",
+      "ContentRoot": "C:\\Users\\yzeng\\Desktop\\marlabs\\RazorDemos\\wwwroot\\",
+      "BasePath": "_content/RazorDemos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yzeng\\Desktop\\marlabs\\RazorDemos\\wwwroot\\StyleSheet.css",
+      "SourceId": "RazorDemos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yzeng\\Desktop\\marlabs\\RazorDemos\\wwwroot\\",
+      "BasePath": "_content/RazorDemos",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
