@@ -1,0 +1,15 @@
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\bin\Debug\WpfDemo2.exe.config
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\bin\Debug\WpfDemo2.exe
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\bin\Debug\WpfDemo2.pdb
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.csproj.AssemblyReference.cache
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\MainWindow.g.cs
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\App.g.cs
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2_MarkupCompile.cache
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2_MarkupCompile.lref
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\MainWindow.baml
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.g.resources
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.Properties.Resources.resources
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.csproj.GenerateResource.cache
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.csproj.CoreCompileInputs.cache
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.exe
+C:\Users\yzeng\Desktop\marlabs\WpfDemo2\obj\Debug\WpfDemo2.pdb

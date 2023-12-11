@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDTest\\CRUDTest.csproj": {}
+    "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDTest\\CRUDTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDExample\\CRUDExample.csproj": {
+    "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDExample\\CRUDExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDExample\\CRUDExample.csproj",
+        "projectUniqueName": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDExample\\CRUDExample.csproj",
         "projectName": "CRUDExample",
-        "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDExample\\CRUDExample.csproj",
+        "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDExample\\CRUDExample.csproj",
         "packagesPath": "C:\\Users\\yzeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDExample\\obj\\",
+        "outputPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj"
               },
-              "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj"
               }
             }
           }
@@ -73,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDTest\\CRUDTest.csproj": {
+    "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDTest\\CRUDTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDTest\\CRUDTest.csproj",
+        "projectUniqueName": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDTest\\CRUDTest.csproj",
         "projectName": "CRUDTest",
-        "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDTest\\CRUDTest.csproj",
+        "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDTest\\CRUDTest.csproj",
         "packagesPath": "C:\\Users\\yzeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDTest\\obj\\",
+        "outputPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,17 +106,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDExample\\CRUDExample.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\CRUDExample\\CRUDExample.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDExample\\CRUDExample.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\CRUDExample\\CRUDExample.csproj"
               },
-              "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj"
               },
-              "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj"
               }
             }
           }
@@ -168,18 +168,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj": {
+    "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\yzeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -228,18 +228,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj": {
+    "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj",
+        "projectUniqueName": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj",
         "projectName": "ServiceContract",
-        "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj",
+        "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj",
         "packagesPath": "C:\\Users\\yzeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\obj\\",
+        "outputPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,8 +261,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj"
               }
             }
           }
@@ -292,18 +292,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj": {
+    "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\yzeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Service\\obj\\",
+        "outputPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -325,11 +325,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\ServiceContract\\ServiceContract.csproj"
+              "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\ServiceContract\\ServiceContract.csproj"
               }
             }
           }
@@ -359,7 +359,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

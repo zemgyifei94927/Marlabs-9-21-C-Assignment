@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\yzeng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yzeng\\Downloads\\gggg\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\yzeng\\Desktop\\marlabs\\Marlabs-Assignments\\CRUD\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

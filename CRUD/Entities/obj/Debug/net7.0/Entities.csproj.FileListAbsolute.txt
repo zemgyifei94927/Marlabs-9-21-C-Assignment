@@ -20,3 +20,15 @@ C:\Users\yzeng\Downloads\gggg\Entities\obj\Debug\net7.0\Entities.dll
 C:\Users\yzeng\Downloads\gggg\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\yzeng\Downloads\gggg\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Users\yzeng\Downloads\gggg\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\yzeng\Desktop\marlabs\Marlabs-Assignments\CRUD\Entities\obj\Debug\net7.0\Entities.sourcelink.json
