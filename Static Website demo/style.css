@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    padding: 40px;
+    text-align: center;
+    /* background-color: indigo; */
+    background-image: linear-gradient(to bottom right, red,orange,yellow,green,blue,indigo,violet);
+    color: white;
+}
+header h1{
+    font-size: 80px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.side{
+    font-size: 40px;
+    flex: 30%;
+    /* background-color: azure; */
+    background-image: conic-gradient(red, yellow, green, blue, black);
+    padding: 20px;
+    animation-name: spin;
+    animation-duration: 0.2s;
+    animation-iteration-count: infinite;
+}
+.main{
+    font-size: 50px;
+    flex: 70%;
+    background-color: rgb(196, 248, 255);
+    padding: 20px;
+    animation-name: change;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spin{
+    0% {background-image: conic-gradient(red, yellow, green, blue, black);}
+    25% {background-image: conic-gradient(yellow, green, blue, black), red;}
+    50% {background-image: conic-gradient(green, blue, black, red, yellow);}
+    75% {background-image: conic-gradient(blue, black, red, yellow, green);}
+    100% {background-image: conic-gradient(black, red, yellow, green, blue);}
+}
+
+@keyframes change {
+    from{background-color: rgb(196, 248, 255);}
+    to{background-color: rgb(108, 30, 210);}
+}
+
+@keyframes textchange{
+    0% {color:blue;font-size: 35px;}
+    25% {color:red;font-size: 20px;}
+    50% {color:yellow;font-size: 15px;}
+    75% {color:rgb(128, 68, 0);font-size: 20px;}
+    100% {color:purple;font-size: 35px;}
+}
+
+footer{
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(0, 130, 50);
+    font-size: 20px;
+    color: white;
+    animation-name: textchange;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@media screen and (max-width: 530px) 
+    {
+        .row{
+            flex-direction: column;
+        }
+        .main{order:2; font-size: 40px;}
+        .side{order:1;font-size: 30px;}
+    }
+
