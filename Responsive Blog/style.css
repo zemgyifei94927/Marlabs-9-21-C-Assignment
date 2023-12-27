@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+header{
+    margin:10px;
+    background-color: bisque;
+    box-shadow: 5px 5px 2px rgba(53, 52, 52, 0.75);
+}
+
+header nav ul{
+    margin:0;
+    list-style-type: none;
+}
+
+header nav ul li{
+    display:inline-block;
+    padding: 20px;
+    justify-content: center;
+}
+
+header nav ul li.right{
+    float:right;
+}
+
+header nav ul li a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li:hover{
+    background-color: rgb(243, 154, 46);
+}
+
+.banner{
+    margin:10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/1.jpg)no-repeat center;
+    background-size: cover;
+    height: 500px;
+    overflow: hidden;
+    box-shadow: 5px 5px 2px rgba(53, 52, 52, 0.75);
+}
+
+.banner > h1{
+    text-align: center;
+    transform: translateY(100px);
+    font-size: 80px;
+    color: #fff;
+}
+
+.banner > h1:hover{
+    color:aquamarine;
+}
+
+
+footer{
+    margin:10px;
+    background: linear-gradient(to top, #4c4d4c, #1e1f1e);
+    padding: 25px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 2px 2px 1px 2px #ddd;
+    box-shadow: 5px 5px 2px rgba(54, 54, 54, 0.75);
+}
+
+.row{
+    margin:10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.side{
+    margin:0px 0px 0px 10px;
+    font-size: 30px;
+    flex: 25%;
+    background-color: rgb(209, 243, 129);
+    padding: 20px;
+    box-shadow: 5px 5px 2px rgba(53, 52, 52, 0.75);
+}
+.main{
+    font-size: 30px;
+    flex: 70%;
+    background-color: rgb(196, 248, 255);
+    padding: 20px;
+    box-shadow: 5px 5px 2px rgba(53, 52, 52, 0.75);
+    animation-name: change;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.side > h1{
+    color:#d81111;
+    text-align:center;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+
+.main > h1{
+    color:#d81111;
+    text-align:center;
+    font-size: 50px;
+    padding-bottom: 10px;
+    animation-name: textchange;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.main > p{
+    color: white;
+}
+
+.side > ul li{
+    background: linear-gradient(rgba(248, 246, 243, 0.5), rgba(231, 210, 210, 0.4));
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 680px){
+    header nav ul li{
+        display:flex;
+    }
+    header nav ul li.right{
+        float:none;
+    }
+    .banner > h1{
+        font-size:40px;
+    }
+}
+
+@media screen and (max-width: 857px){
+    .side{
+        margin: 10px 0px 0px 0px;
+    }
+
+
+}
+
+@keyframes change {
+    from{background-color: rgb(196, 248, 255);}
+    to{background-color: rgb(108, 30, 210);}
+}
+
+@keyframes textchange{
+    0% {color:blue;}
+    25% {color:red;}
+    50% {color:yellow;}
+    75% {color:rgb(128, 68, 0);}
+    100% {color:purple;}
+}
